@@ -3,3 +3,5 @@
 Второй учебный проект по верстке с использованием SASS, с адаптивностью.
 
 Ссылка на макет в Figma: https://www.figma.com/file/M9jcGRLYZEJk2H55BDxW3x/Music-Box
+
+Ссылка на лендинг: http://music-box.vaideska.surge.sh/
